@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://oonainusah.ryabov.xyz/sitemap.xml
